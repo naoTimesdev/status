@@ -1,7 +1,7 @@
 url: https://panel.naoti.me/api/pingbot
-status: down
-code: 504
-responseTime: 10772
-lastUpdated: 2021-05-11T12:57:40.544Z
+status: up
+code: 200
+responseTime: 2874
+lastUpdated: 2021-05-11T13:26:39.771Z
 startTime: Tue May 04 2021 16:51:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
