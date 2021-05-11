@@ -4,18 +4,20 @@
     "url": "https://panel.naoti.me/api/pingbot",
     "icon": "https://naoti.me/img/favicon.ico",
     "slug": "nao-times-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2574,
-    "timeDay": 3003,
-    "timeWeek": 2574,
-    "timeMonth": 2574,
-    "timeYear": 2574,
-    "dailyMinutesDown": {}
+    "time": 3393,
+    "timeDay": 6888,
+    "timeWeek": 3393,
+    "timeMonth": 3393,
+    "timeYear": 3393,
+    "dailyMinutesDown": {
+      "2021-05-11": 0
+    }
   },
   {
     "name": "naoTimes [web/docs]",
