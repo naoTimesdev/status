@@ -5,16 +5,16 @@
     "icon": "https://naoti.me/img/favicon.ico",
     "slug": "nao-times-bot",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 3209,
-    "timeDay": 1751,
-    "timeWeek": 3670,
-    "timeMonth": 3209,
-    "timeYear": 3209,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 3200,
+    "timeDay": 3072,
+    "timeWeek": 3708,
+    "timeMonth": 3200,
+    "timeYear": 3200,
     "dailyMinutesDown": {
       "2021-05-11": 11
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 90,
-    "timeWeek": 122,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "time": 146,
+    "timeDay": 119,
+    "timeWeek": 120,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 37,
-    "timeWeek": 117,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "time": 119,
+    "timeDay": 38,
+    "timeWeek": 101,
+    "timeMonth": 119,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   }
 ]
