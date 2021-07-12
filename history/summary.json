@@ -6,15 +6,15 @@
     "slug": "nao-times-bot",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.34%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
-    "time": 2298,
-    "timeDay": 2117,
-    "timeWeek": 1483,
-    "timeMonth": 1629,
-    "timeYear": 2298,
+    "time": 2280,
+    "timeDay": 872,
+    "timeWeek": 1359,
+    "timeMonth": 1605,
+    "timeYear": 2280,
     "dailyMinutesDown": {
       "2021-07-10": 10,
       "2021-07-07": 7,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 141,
+    "time": 140,
     "timeDay": 77,
-    "timeWeek": 222,
-    "timeMonth": 178,
-    "timeYear": 141,
+    "timeWeek": 218,
+    "timeMonth": 177,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2021-06-08": 23
     }
@@ -54,11 +54,11 @@
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 108,
-    "timeDay": 63,
-    "timeWeek": 52,
+    "time": 107,
+    "timeDay": 52,
+    "timeWeek": 55,
     "timeMonth": 59,
-    "timeYear": 108,
+    "timeYear": 107,
     "dailyMinutesDown": {
       "2021-07-07": 7
     }
