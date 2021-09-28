@@ -1,7 +1,7 @@
 [
   {
     "name": "naoTimes [bot]",
-    "url": "https://panel.naoti.me/api/pingbot",
+    "url": "$BOT_PING_IP",
     "icon": "https://naoti.me/img/favicon.ico",
     "slug": "nao-times-bot",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.89%",
-    "time": 2689,
-    "timeDay": 5959,
-    "timeWeek": 4604,
-    "timeMonth": 3455,
-    "timeYear": 2689,
+    "time": 2675,
+    "timeDay": 5229,
+    "timeWeek": 4323,
+    "timeMonth": 3371,
+    "timeYear": 2675,
     "dailyMinutesDown": {
       "2021-09-28": 48,
       "2021-09-23": 23,
@@ -40,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 122,
-    "timeDay": 111,
-    "timeWeek": 134,
-    "timeMonth": 101,
-    "timeYear": 122,
+    "time": 123,
+    "timeDay": 186,
+    "timeWeek": 149,
+    "timeMonth": 106,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2021-06-08": 23
     }
@@ -61,8 +61,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 189,
-    "timeWeek": 117,
+    "timeDay": 138,
+    "timeWeek": 113,
     "timeMonth": 79,
     "timeYear": 105,
     "dailyMinutesDown": {
