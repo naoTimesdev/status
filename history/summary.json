@@ -52,19 +52,19 @@
     "url": "https://panel.naoti.me/",
     "icon": "https://naoti.me/img/favicon.ico",
     "slug": "nao-times-webui",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 62,
-    "timeWeek": 125,
-    "timeMonth": 136,
-    "timeYear": 146,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 147,
+    "timeDay": 158,
+    "timeWeek": 141,
+    "timeMonth": 140,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2022-03-29": 0
+      "2022-03-29": 32
     }
   }
 ]
