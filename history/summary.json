@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1151,
-    "timeDay": 86,
-    "timeWeek": 115,
-    "timeMonth": 108,
-    "timeYear": 976,
+    "time": 1149,
+    "timeDay": 116,
+    "timeWeek": 112,
+    "timeMonth": 109,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2021-09-28": 41,
       "2021-09-23": 23,
@@ -37,13 +37,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 135,
-    "timeWeek": 165,
-    "timeMonth": 143,
-    "timeYear": 119,
-    "dailyMinutesDown": {
-      "2021-06-08": 23
-    }
+    "timeDay": 147,
+    "timeWeek": 151,
+    "timeMonth": 145,
+    "timeYear": 118,
+    "dailyMinutesDown": {}
   },
   {
     "name": "naoTimes [webui]",
@@ -57,10 +55,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 157,
-    "timeDay": 205,
-    "timeWeek": 213,
-    "timeMonth": 181,
-    "timeYear": 157,
+    "timeDay": 234,
+    "timeWeek": 221,
+    "timeMonth": 185,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2022-03-29": 32
     }
