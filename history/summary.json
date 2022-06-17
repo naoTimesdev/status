@@ -29,18 +29,20 @@
     "url": "https://naoti.me/",
     "icon": "https://naoti.me/img/favicon.ico",
     "slug": "nao-times-web-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 79,
-    "timeWeek": 168,
-    "timeMonth": 150,
+    "timeDay": 76,
+    "timeWeek": 156,
+    "timeMonth": 147,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-17": 0
+    }
   },
   {
     "name": "naoTimes [webui]",
