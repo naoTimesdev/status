@@ -13,7 +13,7 @@
     "time": 774,
     "timeDay": 86,
     "timeWeek": 96,
-    "timeMonth": 106,
+    "timeMonth": 105,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2022-07-01": 92,
@@ -26,9 +26,9 @@
     "url": "https://naoti.me/",
     "icon": "https://naoti.me/img/favicon.ico",
     "slug": "nao-times-web-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -38,6 +38,7 @@
     "timeMonth": 133,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2022-09-14": 0,
       "2022-07-02": 16,
       "2022-07-01": 16,
       "2022-06-30": 185,
