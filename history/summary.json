@@ -4,7 +4,7 @@
     "url": "$BOT_PING_IP",
     "icon": "https://naoti.me/img/favicon.ico",
     "slug": "nao-times-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 111,
     "timeYear": 105,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-11-09": 330,
       "2022-10-03": 35,
       "2022-07-01": 92
