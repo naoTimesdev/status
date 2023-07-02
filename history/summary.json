@@ -9,9 +9,9 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 107,
-    "timeDay": 94,
+    "uptimeYear": "99.86%",
+    "time": 111,
+    "timeDay": 151,
     "timeWeek": 131,
     "timeMonth": 118,
     "timeYear": 112,
@@ -34,15 +34,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 72,
+    "timeDay": 171,
     "timeWeek": 156,
-    "timeMonth": 136,
+    "timeMonth": 137,
     "timeYear": 136,
-    "dailyMinutesDown": {
-      "2022-07-02": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "naoTimes [webui]",
@@ -55,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
-    "time": 218,
-    "timeDay": 104,
-    "timeWeek": 182,
-    "timeMonth": 442,
-    "timeYear": 227,
+    "time": 222,
+    "timeDay": 1918,
+    "timeWeek": 428,
+    "timeMonth": 492,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2023-06-13": 83,
       "2023-04-06": 4
